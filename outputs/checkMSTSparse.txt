@@ -1,0 +1,3 @@
+Sparse Graph
+Prim: 270
+Kruskal: 270

@@ -1,0 +1,4 @@
+Prim: 11
+Kruskal: 11
+Expected: 11
+Tests Passed
